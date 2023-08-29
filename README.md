@@ -168,7 +168,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Backend Markisak`](https://github.com/rizalyuniar/markisak-be)
 
-:rocket: [`Frontend Markisak`](https://github.com/ikkair/markisak-fe)
+:rocket: [`Frontend Markisak`](https://github.com/rizalyuniar/markisak-fe)
 
 :rocket: [`Demo Markisak`](https://markisak-fe.vercel.app/)
 
@@ -206,7 +206,7 @@ Contributions are what make the open source community such an amazing place to b
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/rizalyuniar">
+        <a href="https://github.com/mhmdiamd">
           <img width="200"   src="./documentation/member/ilham.jpg" alt=""><br/>
           <b>Muhamad Ilham Darmawan</b>
         </a>
@@ -218,7 +218,7 @@ Contributions are what make the open source community such an amazing place to b
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/rrizalyuniar">
+        <a href="https://github.com/rizalyuniar">
           <img width="200"  src="./documentation/member/rizal.jpg" alt=""><br/>
           <b>Rizal Yuniar S</b>
         </a>
@@ -227,5 +227,5 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Deployment Project Link: [https://github.com/rizalyuniar/markisak-fe](https://github.com/rizalyuniar/markisak-fe)
+Deployment Project Link: [https://github.com/mhmdiamd/markisak-fe](https://github.com/mhmdiamd/markisak-fe)
 Original Project Link: [https://github.com/ikkair/markisak-fe](https://github.com/ikkair/markisak-fe)
