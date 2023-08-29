@@ -4,7 +4,7 @@
 </div>
   <h3 align="center">Markisak (Recipe App)</h3>
   <p align="center">
-    <a href="https://github.com/mhmdiamd/markisak-fe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rizalyuniar/markisak-fe"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://markisak-fe.vercel.app/">View Demo</a>
     <br />
@@ -58,7 +58,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/mhmdiamd/markisak-fe
+git clone https://github.com/rizalyuniar/markisak-fe
 ```
 
 - Go To Folder Repo
@@ -166,7 +166,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Markisak`](https://github.com/mhmdiamd/markisak-be)
+:rocket: [`Backend Markisak`](https://github.com/rizalyuniar/markisak-be)
 
 :rocket: [`Frontend Markisak`](https://github.com/ikkair/markisak-fe)
 
@@ -206,7 +206,7 @@ Contributions are what make the open source community such an amazing place to b
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/mhmdiamd">
+        <a href="https://github.com/rizalyuniar">
           <img width="200"   src="./documentation/member/ilham.jpg" alt=""><br/>
           <b>Muhamad Ilham Darmawan</b>
         </a>
@@ -227,5 +227,5 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Deployment Project Link: [https://github.com/mhmdiamd/markisak-fe](https://github.com/mhmdiamd/markisak-fe)
+Deployment Project Link: [https://github.com/rizalyuniar/markisak-fe](https://github.com/rizalyuniar/markisak-fe)
 Original Project Link: [https://github.com/ikkair/markisak-fe](https://github.com/ikkair/markisak-fe)
